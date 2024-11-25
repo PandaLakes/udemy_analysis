@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "udemy_analysis", "udemy_analysis.dtproj", "{6E9FF089-F1F6-489E-848B-766B5CE6A129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9FF089-F1F6-489E-848B-766B5CE6A129}.Development|Default.ActiveCfg = Development
+		{6E9FF089-F1F6-489E-848B-766B5CE6A129}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC47A06-B818-4DFF-9AF3-C55BB958BF5F}
+	EndGlobalSection
+EndGlobal
